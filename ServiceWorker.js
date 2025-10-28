@@ -1,9 +1,9 @@
 const cacheName = "John Gobe-Bobnobul-1.0";
 const contentToCache = [
     "Build/BobBuild.loader.js",
-    "Build/BobBuild.framework.js.br",
-    "Build/BobBuild.data.br",
-    "Build/BobBuild.wasm.br",
+    "Build/BobBuild.framework.js",
+    "Build/BobBuild.data",
+    "Build/BobBuild.wasm",
     "TemplateData/style.css"
 
 ];
